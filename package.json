@@ -1,7 +1,11 @@
 {
-  "name": "dropdown",
+  "name": "kmac-react-dropdown",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "main": "FloatingDropdown.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/k-sornalakshmi"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
